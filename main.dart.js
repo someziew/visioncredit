@@ -48808,7 +48808,7 @@ A.xn.prototype={
 P(a){return new A.oK(B.wi,"Flutter Demo",A.a47(null,B.ez,null),null)}}
 A.wz.prototype={
 P(a){var s=null
-return new A.pU(new A.n5(B.Gb,!0,new A.E4(s,s,1/0,56),s),new A.ht(B.U,s,s,A.a_T(s,s,s,new A.e9(s,B.tX,s,A.a_J(15),s,s,B.ay),B.w0,s,300),s),s)}}
+return new A.pU(new A.n5(B.Gb,!0,new A.E4(s,s,1/0,56),s),new A.ht(B.U,s,s,A.a_T(s,s,s,new A.e9(s,B.tX,s,A.a_J(15),s,s,B.ay),B.w0,s,600),s),s)}}
 A.a_a.prototype={
 $0(){var s=t.m7
 if(s.b(A.a5Y()))return s.a(A.a5Y()).$1(A.b([],t.s))
